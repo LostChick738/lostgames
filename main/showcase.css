@@ -1,8 +1,8 @@
 #top-header {
   background-color: rgba(125, 120, 107, 0.9);
+  transition: 0.1s;
 }
 #top-header.hover {
   background-color: rgba(125, 120, 107, 1.2);
   cursor: pointer;
-  
 }
