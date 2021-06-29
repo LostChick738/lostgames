@@ -7,4 +7,6 @@
   cursor: pointer;
 }
 #game-button {
+  border-radius: 10px;
+  opacity: 2;
 }
